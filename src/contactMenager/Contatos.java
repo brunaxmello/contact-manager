@@ -7,6 +7,8 @@ public class Contatos {
 		System.out.println("Hello Git rsrsrsrs");
 		
 		System.out.println("Linha feita por eu, Cauany, em minha máquina");
+		
+		System.out.println("Teste da Branch por Bruna");
 
 	}
 
